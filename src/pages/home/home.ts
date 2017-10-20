@@ -7,6 +7,8 @@ import { NavController } from 'ionic-angular';
 })
 export class HomePage {
 
+  imageUrl = './assets/images/treeme-icon.png';
+
   constructor(public navCtrl: NavController) {
 
   }
