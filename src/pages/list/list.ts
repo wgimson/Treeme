@@ -1,7 +1,6 @@
 import { Component } from '@angular/core';
 import { NavController, NavParams } from 'ionic-angular';
 
-import { HelloTreemePage } from '../hello-treeme';
 
 @Component({
   selector: 'page-list',
